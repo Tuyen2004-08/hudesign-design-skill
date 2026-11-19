@@ -1,0 +1,38 @@
+{
+  "platform": "TikTok",
+  "handle": "@hudesign",
+  "display_name": "Hủ Design",
+  "stats": {
+    "followers": "43.5K",
+    "likes": "241K",
+    "total_posts": 47,
+    "playlists": ["Bố cục các kiểu (6)", "Tư duy thiết kế (8)", "Màu mè font phiếc (10)"]
+  },
+  "verified_lessons": [
+    {"id": "7646024611628420359", "type": "video", "title": "7 loại bố cục thường thấy trong thiết kế đồ họa", "views": "314K", "group": "Ghim #2", "formulas": ["LAY-01"]},
+    {"id": "7689793745599892754", "type": "video", "title": "Proximity - Nguyên tắc gần kề trong thiết kế menu", "views": "239.2K", "group": "Bố cục", "formulas": ["LAY-07"]},
+    {"id": "7675723762343464210", "type": "video", "title": "07 mẹo làm thiết kế tinh tế hơn (Phần 1)", "views": "234.8K", "group": "Mẹo tinh tế", "formulas": ["POL-01", "COL-01"]},
+    {"id": "7521727954192223495", "type": "video", "title": "Học bố cục cùng các pháp sư Trung Hoa (Bố cục đường chéo)", "views": "219.6K", "group": "Bố cục các kiểu", "formulas": ["LAY-03"]},
+    {"id": "7526475657501609224", "type": "video", "title": "Làm menu style đơn giản bằng Canva", "views": "168.2K", "group": "Ghim #1", "formulas": ["LAY-09"]},
+    {"id": "7531679531468442887", "type": "video", "title": "Trình bày Infographic thu hút hơn", "views": "158.1K", "group": "Ghim #3 / Tư duy thiết kế", "formulas": ["LAY-08"]},
+    {"id": "7524317963789372690", "type": "video", "title": "Bố cục giao điểm trọng tâm (Chữ X)", "views": "148.6K", "group": "Bố cục các kiểu", "formulas": ["LAY-04"]},
+    {"id": "7582220655031274770", "type": "video", "title": "Bố cục trung tâm", "views": "127.6K", "group": "Bố cục", "formulas": ["LAY-02"]},
+    {"id": "7671229776681585927", "type": "video", "title": "Bạn đã dùng Gradient đúng cách chưa?", "views": "92.6K", "group": "Màu mè font phiếc", "formulas": ["COL-01"]},
+    {"id": "7634899872566512904", "type": "video", "title": "9 mẹo thiết kế sang xịn hơn", "views": "85.1K", "group": "Mẹo nâng cao", "formulas": ["POL-01"]},
+    {"id": "7664239235318271250", "type": "video", "title": "6 mẹo thiết kế hữu ích cho người mới", "views": "75.8K", "group": "Nền tảng", "formulas": ["LAY-01", "GRD-01"]},
+    {"id": "7619709741140413704", "type": "video", "title": "Mẹo thiết kế Card Layout trong UI/UX", "views": "75.6K", "group": "UI/UX", "formulas": ["UI-01"]},
+    {"id": "7529573401598446866", "type": "video", "title": "Tỷ lệ vàng (Golden Ratio)", "views": "65.2K", "group": "Bố cục các kiểu", "formulas": ["LAY-06"]},
+    {"id": "7665740962018118919", "type": "video", "title": "6 loại lưới thường dùng trong thiết kế đồ họa (Grid System)", "views": "63.9K", "group": "Hệ thống lưới", "formulas": ["GRD-01"]},
+    {"id": "7522856606074227975", "type": "video", "title": "Không gian âm (Con mèo & con chuột)", "views": "59.6K", "group": "Tư duy thiết kế", "formulas": ["POL-02"]},
+    {"id": "7539160968979401992", "type": "video", "title": "5 mẹo phối màu", "views": "59.1K", "group": "Màu mè font phiếc", "formulas": ["COL-02"]},
+    {"id": "7526137835141729543", "type": "video", "title": "Bố cục hội tụ", "views": "51.1K", "group": "Bố cục các kiểu", "formulas": ["LAY-05"]},
+    {"id": "7526950267040959762", "type": "photo", "title": "10 phong cách thiết kế thịnh hành", "views": "44.6K", "group": "Màu mè font phiếc", "formulas": ["STY-01"]},
+    {"id": "7524715684501146887", "type": "video", "title": "Cảm giác chuyển động trong thiết kế", "views": "30.8K", "group": "Tư duy thiết kế", "formulas": ["POL-03"]},
+    {"id": "7583332389653449991", "type": "video", "title": "Phối màu? Dễ ẹc", "views": "19.7K", "group": "Màu sắc", "formulas": ["COL-02"]},
+    {"id": "7709495044721462536", "type": "video", "title": "08 mẹo làm thiết kế tinh tế hơn (Phần 2)", "views": "15K", "group": "Mẹo tinh tế", "formulas": ["POL-01"]},
+    {"id": "7530291996859174162", "type": "photo", "title": "Màu sắc gợi cảm xúc gì? Phần 1", "views": "10.5K", "group": "Màu mè font phiếc", "formulas": ["COL-02"]},
+    {"id": "7528406911268424968", "type": "photo", "title": "5 nhóm font (Font Categories) phổ biến designer nên biết", "views": "8,159", "group": "Màu mè font phiếc", "formulas": ["TYP-01"]},
+    {"id": "7532006799914863880", "type": "photo", "title": "Màu sắc gợi cảm xúc gì? Phần 2", "views": "7,206", "group": "Màu mè font phiếc", "formulas": ["COL-02"]},
+    {"id": "7191060104702151962", "type": "video", "title": "Shopee Banner Design - Deal sữa giảm sâu", "views": "2,099", "group": "Video đầu kênh", "formulas": ["LAY-01"]}
+  ]
+}
