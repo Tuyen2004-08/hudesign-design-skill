@@ -20,7 +20,9 @@ Codex skill đóng gói toàn bộ hệ thống công thức thiết kế đồ 
 
 ![06. Hiệu ứng Nền tối, The Cube và Bảng màu Thực chiến](skills/hudesign-design-skill/assets/diagrams/06_dark_mode_glow_and_cube_effects.svg)
 
-[Đọc Visual Playbook](skills/hudesign-design-skill/references/visual-playbook.md) · [Mở Visual Lab HTML](skills/hudesign-design-skill/references/visual-lab.html) · [Xem CSS Recipes](skills/hudesign-design-skill/references/css-recipes.md) · [Sổ cái 25 Video tham khảo (JSON)](skills/hudesign-design-skill/references/reference-video-ledger.json) · [Danh mục đủ 47 bài @hudesign](00_CHANNEL_CATALOG.md) · [Công thức Căn chỉnh, 1/3 & Nền tối](formulas/06_alignment_thirds_and_creative_effects.md)
+
+![07. Màu nóng - Màu lạnh và 15 Phong cách Thiết kế](skills/hudesign-design-skill/assets/diagrams/07_warm_cool_and_15_styles.svg)
+[Đọc Visual Playbook](skills/hudesign-design-skill/references/visual-playbook.md) · [Mở Visual Lab HTML](skills/hudesign-design-skill/references/visual-lab.html) · [Xem CSS Recipes](skills/hudesign-design-skill/references/css-recipes.md) · [Sổ cái 25 Video tham khảo (JSON)](skills/hudesign-design-skill/references/reference-video-ledger.json) · [Danh mục đủ 47 bài @hudesign](00_CHANNEL_CATALOG.md) · [Công thức Căn chỉnh, 1/3 & Nền tối](formulas/06_alignment_thirds_and_creative_effects.md) · [Màu Nóng-Lạnh & 15 Phong Cách](formulas/07_warm_cool_and_15_design_styles.md)
 
 ### Kiến trúc Chuẩn Codex Skill (`skills/hudesign-design-skill/`)
 - `skills/hudesign-design-skill/SKILL.md`: Định nghĩa skill lõi kèm **Cổng Kiểm Tra Thiết Kế 5 Bước** và **5 Bất Biến Cấm Vi Phạm**.
