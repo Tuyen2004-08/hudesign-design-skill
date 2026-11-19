@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 640" width="1200" height="640">
+  <rect width="1200" height="640" fill="#0F172A" rx="16"/>
+  <text x="36" y="48" fill="#F8FAFC" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="700">05. CĂN CHỈNH (ALIGNMENT), QUY TẮC 1/3 &amp; BỐ CỤC ĐA ẢNH — HỦ DESIGN</text>
+  <text x="36" y="74" fill="#94A3B8" font-family="Segoe UI, Arial, sans-serif" font-size="14">Căn chỉnh (21.4K) • Quy tắc 1/3 Rule of Thirds (17.3K) • Sắp xếp bố cục 5 ảnh &amp; 3 vùng nhìn (83.2K)</text>
+  <line x1="36" y1="90" x2="1164" y2="90" stroke="#334155" stroke-width="1.5"/>
+  <!-- Row 1: 3 Rule of Thirds scenarios -->
+  <g transform="translate(36,110)">
+    <rect width="360" height="236" rx="12" fill="#1E293B" stroke="#334155"/>
+    <text x="16" y="28" fill="#F59E0B" font-family="Arial" font-size="13" font-weight="700">1/3 #1 — BANNER TMĐT (8.8 SIÊU SALE)</text>
+    <rect x="16" y="42" width="328" height="156" rx="8" fill="#F8FAFC"/>
+    <g stroke="#CBD5E1" stroke-dasharray="4,3"><line x1="125" y1="42" x2="125" y2="198"/><line x1="235" y1="42" x2="235" y2="198"/><line x1="16" y1="94" x2="344" y2="94"/><line x1="16" y1="146" x2="344" y2="146"/></g>
+    <rect x="30" y="64" width="128" height="36" rx="4" fill="#0F172A"/><text x="94" y="86" fill="#FFFFFF" font-family="Arial" font-size="11" font-weight="700" text-anchor="middle">8.8 SIÊU SALE</text>
+    <rect x="30" y="136" width="120" height="24" rx="4" fill="#F43F5E"/><text x="90" y="152" fill="#FFFFFF" font-family="Arial" font-size="9.5" font-weight="700" text-anchor="middle">FREESHIP • 150K</text>
+    <circle cx="258" cy="120" r="38" fill="#38BDF8" stroke="#0F172A" stroke-width="2"/><text x="258" y="124" fill="#0F172A" font-family="Arial" font-size="10" font-weight="700" text-anchor="middle">SẢN PHẨM</text>
+    <text x="180" y="220" fill="#94A3B8" font-family="Arial" font-size="11" text-anchor="middle">Tiêu đề trên-trái • Badge dưới-trái • Sản phẩm trục 1/3 phải</text>
+  </g>
+  <g transform="translate(420,110)">
+    <rect width="360" height="236" rx="12" fill="#1E293B" stroke="#334155"/>
+    <text x="16" y="28" fill="#F59E0B" font-family="Arial" font-size="13" font-weight="700">1/3 #2 — POSTER F&amp;B (TRÀ XOÀI 19K)</text>
+    <rect x="16" y="42" width="328" height="156" rx="8" fill="#F8FAFC"/>
+    <g stroke="#CBD5E1" stroke-dasharray="4,3"><line x1="125" y1="42" x2="125" y2="198"/><line x1="235" y1="42" x2="235" y2="198"/><line x1="16" y1="94" x2="344" y2="94"/><line x1="16" y1="146" x2="344" y2="146"/></g>
+    <rect x="64" y="64" width="66" height="114" rx="10" fill="#F59E0B" stroke="#0F172A" stroke-width="2"/><text x="97" y="124" fill="#0F172A" font-family="Arial" font-size="10" font-weight="700" text-anchor="middle">LY TRÀ</text>
+    <rect x="180" y="68" width="136" height="32" rx="4" fill="#0F172A"/><text x="248" y="88" fill="#FFFFFF" font-family="Arial" font-size="11" font-weight="700" text-anchor="middle">TRÀ XOÀI</text>
+    <circle cx="242" cy="148" r="24" fill="#10B981"/><text x="242" y="152" fill="#FFFFFF" font-family="Arial" font-size="11" font-weight="800" text-anchor="middle">19K</text>
+    <text x="180" y="220" fill="#94A3B8" font-family="Arial" font-size="11" text-anchor="middle">Sản phẩm trục 1/3 trái • Tiêu đề trên-phải • Tem giá dưới-phải</text>
+  </g>
+  <g transform="translate(804,110)">
+    <rect width="360" height="236" rx="12" fill="#1E293B" stroke="#334155"/>
+    <text x="16" y="28" fill="#F59E0B" font-family="Arial" font-size="13" font-weight="700">1/3 #3 — HERO WEBSITE + MOCKUP</text>
+    <rect x="16" y="42" width="328" height="156" rx="8" fill="#F8FAFC"/>
+    <g stroke="#CBD5E1" stroke-dasharray="4,3"><line x1="125" y1="42" x2="125" y2="198"/><line x1="235" y1="42" x2="235" y2="198"/><line x1="16" y1="94" x2="344" y2="94"/><line x1="16" y1="146" x2="344" y2="146"/></g>
+    <rect x="34" y="76" width="130" height="22" rx="3" fill="#0F172A"/><rect x="34" y="106" width="106" height="12" rx="2" fill="#64748B"/>
+    <rect x="34" y="134" width="76" height="24" rx="12" fill="#1D4ED8"/><text x="72" y="150" fill="#FFFFFF" font-family="Arial" font-size="9.5" font-weight="700" text-anchor="middle">BẮT ĐẦU</text>
+    <rect x="224" y="60" width="74" height="122" rx="12" fill="#0F172A" stroke="#38BDF8" stroke-width="2"/><text x="261" y="124" fill="#38BDF8" font-family="Arial" font-size="10" font-weight="700" text-anchor="middle">APP UI</text>
+    <text x="180" y="220" fill="#94A3B8" font-family="Arial" font-size="11" text-anchor="middle">Tiêu đề &amp; CTA bám trục 1/3 trái • Điện thoại đặt bên phải</text>
+  </g>
+  <!-- Row 2: Alignment & Multi-photo 5 images -->
+  <g transform="translate(36,368)">
+    <rect width="552" height="242" rx="12" fill="#1E293B" stroke="#334155"/>
+    <text x="18" y="28" fill="#38BDF8" font-family="Arial" font-size="14" font-weight="700">4 QUY TẮC CĂN CHỈNH (ALIGNMENT)</text>
+    <g transform="translate(18,46)"><rect width="122" height="176" rx="8" fill="#0F172A" stroke="#10B981"/><line x1="18" y1="22" x2="18" y2="140" stroke="#38BDF8" stroke-width="2"/><rect x="24" y="32" width="80" height="14" rx="2" fill="#F8FAFC"/><rect x="24" y="56" width="62" height="10" rx="2" fill="#94A3B8"/><rect x="24" y="76" width="74" height="10" rx="2" fill="#94A3B8"/><text x="61" y="160" fill="#10B981" font-family="Arial" font-size="10" font-weight="700" text-anchor="middle">Căn trái (Nhanh nhất)</text></g>
+    <g transform="translate(150,46)"><rect width="122" height="176" rx="8" fill="#0F172A" stroke="#F59E0B"/><line x1="104" y1="22" x2="104" y2="140" stroke="#F59E0B" stroke-width="2"/><rect x="20" y="32" width="78" height="14" rx="2" fill="#F8FAFC"/><rect x="38" y="56" width="60" height="10" rx="2" fill="#94A3B8"/><rect x="28" y="76" width="70" height="10" rx="2" fill="#94A3B8"/><text x="61" y="160" fill="#F59E0B" font-family="Arial" font-size="10" font-weight="700" text-anchor="middle">Căn phải (Đọc chậm)</text></g>
+    <g transform="translate(282,46)"><rect width="122" height="176" rx="8" fill="#0F172A" stroke="#38BDF8"/><circle cx="28" cy="68" r="16" fill="#38BDF8"/><circle cx="94" cy="68" r="16" fill="#38BDF8"/><rect x="26" y="96" width="70" height="16" rx="3" fill="#F59E0B"/><rect x="36" y="120" width="50" height="14" rx="7" fill="#10B981"/><text x="61" y="160" fill="#38BDF8" font-family="Arial" font-size="10" font-weight="700" text-anchor="middle">Căn giữa 2 diễn giả</text></g>
+    <g transform="translate(414,46)"><rect width="120" height="176" rx="8" fill="#0F172A" stroke="#A78BFA"/><rect x="12" y="28" width="16" height="108" rx="2" fill="#A78BFA" opacity="0.8"/><rect x="32" y="28" width="16" height="108" rx="2" fill="#38BDF8" opacity="0.8"/><rect x="52" y="28" width="16" height="108" rx="2" fill="#F59E0B" opacity="0.8"/><rect x="72" y="28" width="16" height="108" rx="2" fill="#10B981" opacity="0.8"/><rect x="92" y="28" width="16" height="108" rx="2" fill="#F43F5E" opacity="0.8"/><text x="60" y="160" fill="#A78BFA" font-family="Arial" font-size="10" font-weight="700" text-anchor="middle">Chia 5 cột đều</text></g>
+  </g>
+  <g transform="translate(612,368)">
+    <rect width="552" height="242" rx="12" fill="#1E293B" stroke="#334155"/>
+    <text x="18" y="28" fill="#10B981" font-family="Arial" font-size="14" font-weight="700">BỐ CỤC 5 ẢNH: TRÁNH KHUYẾT GÓC (STREET STYLE)</text>
+    <g transform="translate(18,46)"><rect width="162" height="176" rx="8" fill="#F8FAFC" stroke="#F43F5E" stroke-width="2"/><text x="81" y="20" fill="#F43F5E" font-family="Arial" font-size="10" font-weight="700" text-anchor="middle">[TRƯỚC] Khuyết góc</text><rect x="14" y="32" width="42" height="46" fill="#94A3B8"/><rect x="62" y="32" width="42" height="46" fill="#94A3B8"/><rect x="110" y="32" width="42" height="46" fill="none" stroke="#F43F5E" stroke-dasharray="3,2"/><rect x="14" y="86" width="42" height="46" fill="#94A3B8"/><rect x="62" y="86" width="42" height="46" fill="#94A3B8"/><rect x="110" y="86" width="42" height="46" fill="#94A3B8"/><rect x="24" y="146" width="114" height="14" fill="#0F172A"/></g>
+    <g transform="translate(195,46)"><rect width="162" height="176" rx="8" fill="#F8FAFC" stroke="#10B981" stroke-width="2"/><text x="81" y="20" fill="#10B981" font-family="Arial" font-size="10" font-weight="700" text-anchor="middle">[SAU 1] 1 Lớn + 4 Ngang</text><rect x="12" y="32" width="66" height="130" fill="#0F172A"/><rect x="84" y="32" width="66" height="24" fill="#38BDF8"/><rect x="84" y="60" width="66" height="24" fill="#38BDF8"/><rect x="84" y="88" width="66" height="24" fill="#38BDF8"/><rect x="84" y="116" width="66" height="24" fill="#38BDF8"/><rect x="84" y="146" width="66" height="16" fill="#F59E0B"/></g>
+    <g transform="translate(372,46)"><rect width="162" height="176" rx="8" fill="#F8FAFC" stroke="#10B981" stroke-width="2"/><text x="81" y="20" fill="#10B981" font-family="Arial" font-size="10" font-weight="700" text-anchor="middle">[SAU 2] Đan xen + Chữ dọc</text><rect x="12" y="34" width="60" height="22" fill="#38BDF8"/><rect x="90" y="60" width="60" height="22" fill="#38BDF8"/><rect x="12" y="86" width="60" height="22" fill="#38BDF8"/><rect x="90" y="112" width="60" height="22" fill="#38BDF8"/><rect x="12" y="138" width="60" height="22" fill="#38BDF8"/><rect x="75" y="34" width="12" height="126" fill="#F43F5E"/></g>
+  </g>
+</svg>
