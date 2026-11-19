@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 620" width="1200" height="620">
+  <defs>
+    <linearGradient id="warmBar" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" stop-color="#EF4444"/><stop offset="40%" stop-color="#F97316"/><stop offset="75%" stop-color="#EAB308"/><stop offset="100%" stop-color="#EC4899"/></linearGradient>
+    <linearGradient id="coolBar" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" stop-color="#22C55E"/><stop offset="50%" stop-color="#0EA5E9"/><stop offset="100%" stop-color="#8B5CF6"/></linearGradient>
+  </defs>
+  <rect width="1200" height="620" fill="#0F172A" rx="16"/>
+  <text x="36" y="48" fill="#F8FAFC" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="700">07. MÀU NÓNG – MÀU LẠNH &amp; 15 PHONG CÁCH THIẾT KẾ — HỦ DESIGN (@hudesign)</text>
+  <text x="36" y="74" fill="#94A3B8" font-family="Segoe UI, Arial, sans-serif" font-size="14">Màu lạnh màu nóng (14.6K • video/7579978148536765704) • 15 phong cách thiết kế bạn nên biết (16.7K • video/7522454056590200072)</text>
+  <line x1="36" y1="90" x2="1164" y2="90" stroke="#334155" stroke-width="1.5"/>
+  <!-- Top: Warm vs Cool -->
+  <g transform="translate(36,110)">
+    <rect width="552" height="148" rx="12" fill="#1E293B" stroke="#F97316" stroke-width="1.5"/>
+    <text x="20" y="32" fill="#FB923C" font-family="Arial" font-size="15" font-weight="700">TÔNG NÓNG (WARM): Đỏ • Cam • Vàng • Hồng</text>
+    <rect x="20" y="46" width="512" height="32" rx="8" fill="url(#warmBar)"/>
+    <text x="20" y="104" fill="#F8FAFC" font-family="Arial" font-size="12">Cảm xúc: Vui tươi, ấm áp, phóng khoáng, kích thích vị giác &amp; năng lượng.</text>
+    <text x="20" y="126" fill="#94A3B8" font-family="Arial" font-size="11.5">Ứng dụng: Ẩm thực/F&amp;B, khuyến mãi, sự kiện sôi động, điểm nhấn CTA trên nền lạnh.</text>
+  </g>
+  <g transform="translate(612,110)">
+    <rect width="552" height="148" rx="12" fill="#1E293B" stroke="#38BDF8" stroke-width="1.5"/>
+    <text x="20" y="32" fill="#38BDF8" font-family="Arial" font-size="15" font-weight="700">TÔNG LẠNH (COOL): Xanh lá • Xanh dương • Tím</text>
+    <rect x="20" y="46" width="512" height="32" rx="8" fill="url(#coolBar)"/>
+    <text x="20" y="104" fill="#F8FAFC" font-family="Arial" font-size="12">Cảm xúc: Mát mẻ, ổn định, tin cậy, chuyên nghiệp và điềm tĩnh.</text>
+    <text x="20" y="126" fill="#94A3B8" font-family="Arial" font-size="11.5">Ứng dụng: Doanh nghiệp, công nghệ, tài chính, y tế (có thể điểm xuyết màu nóng khéo léo).</text>
+  </g>
+  <!-- Bottom: 15 Styles in 4 Clusters -->
+  <g transform="translate(36,280)">
+    <rect width="1128" height="310" rx="12" fill="#1E293B" stroke="#334155"/>
+    <text x="20" y="32" fill="#F59E0B" font-family="Arial" font-size="15" font-weight="700">BẢN ĐỒ 15 PHONG CÁCH THIẾT KẾ KINH ĐIỂN CHO CODEX (4 NHÓM CHÍNH)</text>
+    <g transform="translate(20,50)">
+      <rect width="260" height="240" rx="10" fill="#0F172A" stroke="#F43F5E"/>
+      <text x="16" y="28" fill="#F43F5E" font-family="Arial" font-size="12.5" font-weight="700">NHÓM 1: VĂN HÓA &amp; POP</text>
+      <text x="16" y="62" fill="#F8FAFC" font-family="Arial" font-size="12" font-weight="700">01. Phong cách Trung Quốc</text><text x="16" y="78" fill="#94A3B8" font-family="Arial" font-size="10.5">Truyền thống Á Đông + xu hướng hiện đại</text>
+      <text x="16" y="110" fill="#F8FAFC" font-family="Arial" font-size="12" font-weight="700">02. Pop Art</text><text x="16" y="126" fill="#94A3B8" font-family="Arial" font-size="10.5">Truyện tranh, văn hóa đại chúng, màu bật</text>
+      <text x="16" y="158" fill="#F8FAFC" font-family="Arial" font-size="12" font-weight="700">05. Memphis</text><text x="16" y="174" fill="#94A3B8" font-family="Arial" font-size="10.5">Phá quy tắc màu, hồng/xanh chói, vui nhộn</text>
+      <text x="16" y="206" fill="#F8FAFC" font-family="Arial" font-size="12" font-weight="700">07. Cắt giấy (Paper-cut)</text><text x="16" y="222" fill="#94A3B8" font-family="Arial" font-size="10.5">Khoét rỗng, xếp nhiều tầng chiều sâu</text>
+    </g>
+    <g transform="translate(296,50)">
+      <rect width="260" height="240" rx="10" fill="#0F172A" stroke="#38BDF8"/>
+      <text x="16" y="28" fill="#38BDF8" font-family="Arial" font-size="12.5" font-weight="700">NHÓM 2: HÌNH HỌC &amp; MINH HỌA</text>
+      <text x="16" y="62" fill="#F8FAFC" font-family="Arial" font-size="12" font-weight="700">04. Op Art (Optical Art)</text><text x="16" y="78" fill="#94A3B8" font-family="Arial" font-size="10.5">Hình học đan xen tạo ảo ảnh chuyển động</text>
+      <text x="16" y="110" fill="#F8FAFC" font-family="Arial" font-size="12" font-weight="700">08. Minh họa MBE</text><text x="16" y="126" fill="#94A3B8" font-family="Arial" font-size="10.5">Viền dày, mảng màu tươi, nhận diện cao</text>
+      <text x="16" y="158" fill="#F8FAFC" font-family="Arial" font-size="12" font-weight="700">09. Pixel Art</text><text x="16" y="174" fill="#94A3B8" font-family="Arial" font-size="10.5">Đơn vị điểm ảnh, sắc nét, retro công nghệ</text>
+      <text x="16" y="206" fill="#F8FAFC" font-family="Arial" font-size="12" font-weight="700">15. Low-Poly</text><text x="16" y="222" fill="#94A3B8" font-family="Arial" font-size="10.5">Mặt tam giác đa sắc, ánh sáng dịu 3D</text>
+    </g>
+    <g transform="translate(572,50)">
+      <rect width="260" height="240" rx="10" fill="#0F172A" stroke="#A78BFA"/>
+      <text x="16" y="28" fill="#A78BFA" font-family="Arial" font-size="12.5" font-weight="700">NHÓM 3: TECH &amp; FUTURISTIC</text>
+      <text x="16" y="58" fill="#F8FAFC" font-family="Arial" font-size="11.5" font-weight="700">03. Vaporwave</text><text x="16" y="73" fill="#94A3B8" font-family="Arial" font-size="10">Lo-Fi + Retro + Cắt dán + Glitch</text>
+      <text x="16" y="98" fill="#F8FAFC" font-family="Arial" font-size="11.5" font-weight="700">06. Steampunk</text><text x="16" y="113" fill="#94A3B8" font-family="Arial" font-size="10">Cổ điển Victoria + cơ khí hơi nước</text>
+      <text x="16" y="138" fill="#F8FAFC" font-family="Arial" font-size="11.5" font-weight="700">10. Glitch Art</text><text x="16" y="153" fill="#94A3B8" font-family="Arial" font-size="10">Lỗi kỹ thuật + xanh tím lạnh + neon</text>
+      <text x="16" y="178" fill="#F8FAFC" font-family="Arial" font-size="11.5" font-weight="700">13. Acid Aesthetics</text><text x="16" y="193" fill="#94A3B8" font-family="Arial" font-size="10">Kim loại lỏng, huỳnh quang, Gothic méo</text>
+      <text x="16" y="218" fill="#F8FAFC" font-family="Arial" font-size="11.5" font-weight="700">14. Cyberpunk</text><text x="16" y="233" fill="#94A3B8" font-family="Arial" font-size="10">Đèn neon + đen/tím/xanh, tech u tối</text>
+    </g>
+    <g transform="translate(848,50)">
+      <rect width="260" height="240" rx="10" fill="#0F172A" stroke="#10B981"/>
+      <text x="16" y="28" fill="#10B981" font-family="Arial" font-size="12.5" font-weight="700">NHÓM 4: TỐI GIẢN vs TỐI ĐA</text>
+      <text x="16" y="76" fill="#F8FAFC" font-family="Arial" font-size="13" font-weight="700">11. Minimalism (Tối giản)</text>
+      <text x="16" y="96" fill="#94A3B8" font-family="Arial" font-size="10.5">Triết lý "ít là nhiều", đường nét gọn,</text>
+      <text x="16" y="112" fill="#94A3B8" font-family="Arial" font-size="10.5">khoảng trắng lớn -&gt; đẳng cấp cao.</text>
+      <line x1="16" y1="138" x2="244" y2="138" stroke="#334155"/>
+      <text x="16" y="168" fill="#F8FAFC" font-family="Arial" font-size="13" font-weight="700">12. Maximalism (Tối đa)</text>
+      <text x="16" y="188" fill="#94A3B8" font-family="Arial" font-size="10.5">Đa sắc, chi tiết phức tạp, giàu cảm xúc,</text>
+      <text x="16" y="204" fill="#94A3B8" font-family="Arial" font-size="10.5">phối nhiều yếu tố tạo sức sống mạnh.</text>
+    </g>
+  </g>
+</svg>
