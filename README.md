@@ -1,39 +1,48 @@
-# Hủ Design (`@hudesign`) — Kho Skill & Công Thức Thiết Kế Cho Codex
+# Hủ Design Visual Skill (`@hudesign`)
 
-Kho tri thức thiết kế được phân tích trực tiếp từ kênh TikTok **Hủ Design (`@hudesign`)** (`43.5K` follower • `241K` lượt thích • `47` bài đăng • `3` danh sách phát) và hệ sinh thái **Hudesign (`hudesign.site`)**, chuẩn hóa thành công thức **Trước – Sau (Before/After)**, sơ đồ trực quan Mermaid, JSON Schema và bộ luật vận hành (`AGENTS.md` + `SKILL.md`) để nạp trực tiếp cho **Codex**.
+Codex skill đóng gói toàn bộ hệ thống công thức thiết kế đồ họa, bố cục, lưới, Card UI/UX, Gradient, phối màu và Typography phân tích trực tiếp từ kênh TikTok **Hủ Design (`@hudesign`)** (`43.5K` follower • `241K` thích • `47` bài đăng • `3` danh sách phát).
 
-## Cấu trúc Kho Skill
+## Có gì trong skill?
 
-| Đường dẫn | Vai trò |
-| :--- | :--- |
-| `AGENTS.md` | Bộ luật thực thi & Ma trận quyết định thiết kế (Decision Engine) cho Codex |
-| `SKILL.md` | Chuẩn Agent Skill (YAML frontmatter + quy trình 5 bước) |
-| `00_CHANNEL_CATALOG.md` | Danh mục đầy đủ 47 bài đăng trên `@hudesign` theo 3 playlist kèm mã video gốc |
-| `formulas/01_layout_and_composition.md` | 7 loại bố cục + Trung tâm, Đường chéo, Chữ X, Hội tụ, Tỷ lệ vàng, Proximity, Infographic & Menu Canva |
-| `formulas/02_grid_systems.md` | 6 hệ thống lưới (`Radial`, `Modular`, `Axial`, `Column`, `Hierarchical`, `Baseline`) |
-| `formulas/03_visual_polish_and_ui_cards.md` | 9 mẹo sang xịn + 6 mẹo newbie + 5 mẹo Card UI/UX + Mẹo tinh tế (P1/P2) + Không gian âm + Chuyển động |
-| `formulas/04_color_gradient_typography.md` | 5 mẹo phối màu + Luật Gradient góc <= 90° & khử vùng xám 180° + Tâm lý 9 màu + 5 nhóm Font + 10 phong cách |
-| `formulas/05_software_shortcuts_and_qa.md` | Checklist QA 10 điểm Trước–Sau, quy trình Canva/AI/PS & Prompt lệnh chuẩn cho Codex |
-| `schemas/hudesign_formulas.json` | Cơ sở dữ liệu JSON có cấu trúc toàn bộ công thức để Codex parse tự động |
+### Bộ sơ đồ minh họa trực quan (SVG Blueprints) & Visual Playbook
+- **4 sơ đồ vector SVG độ nét cao** hiển thị trực tiếp ngay trên GitHub: Hệ thống 9 Bố cục & 6 loại Lưới, Công thức Trước–Sau Thực chiến (Proximity, Infographic 7 bước, Tỷ lệ vàng, Menu 3 tầng), Card UI/UX & Mẹo nâng cấp thẩm mỹ, và Luật Gradient `90° / 180°` + 5 Nhóm Font.
+- **Visual Playbook chuẩn 4 cột (*"Xem gì trước?"*)** ánh xạ mọi bài toán thiết kế sang sơ đồ minh họa, mã công thức, mã video gốc và bất biến cần khóa.
 
-## Bản đồ Luồng Quyết Định Thiết Kế (Codex Workflow)
+![01. Hệ thống Bố cục và 6 loại Lưới](skills/hudesign-design-skill/assets/diagrams/01_layouts_and_grids.svg)
 
-```mermaid
-flowchart TD
-    A[Yêu cầu Thiết kế / UI / Poster] --> B{Loại sản phẩm?}
-    B -->|Poster / Banner| C[Chọn 1 trong 7 Bố cục + Chữ X / Hội tụ / Tỷ lệ vàng]
-    B -->|Menu / Bảng giá| D[Nguyên tắc Proximity + Menu 3 tầng + Line 90°]
-    B -->|Nhiều chữ| E[Infographic 7 bước: 2 cột + Ảnh tâm + Biểu đồ + Quy trình]
-    B -->|Card UI/UX| F[5 mẹo Card: Bo góc Gradient / Custom Shape / Skewed / Ticket / Overflow]
-    C & D & E & F --> G[Khóa 1 trong 6 Hệ thống Lưới: Radial / Modular / Axial / Column / Hierarchical / Baseline]
-    G --> H[Phối màu 4 lớp + Luật Gradient <= 90° / Chèn màu trung gian 180° + 5 nhóm Font]
-    H --> I[Nâng cấp Thẩm mỹ: Watermark Number / Mask chiều sâu / Negative Space / Speed Lines]
-    I --> J[Chạy Checklist QA 10 điểm trước khi xuất]
+![02. Công thức Trước - Sau Thực chiến](skills/hudesign-design-skill/assets/diagrams/02_before_after_practical.svg)
+
+![03. Mẹo Nâng cấp Thẩm mỹ và Card UI/UX](skills/hudesign-design-skill/assets/diagrams/03_card_ui_and_polish.svg)
+
+![04. Luật Gradient 90 độ, Tương phản 4 lớp và 5 Nhóm Font](skills/hudesign-design-skill/assets/diagrams/04_gradient_color_and_fonts.svg)
+
+[Đọc Visual Playbook](skills/hudesign-design-skill/references/visual-playbook.md) · [Mở Visual Lab HTML](skills/hudesign-design-skill/references/visual-lab.html) · [Xem CSS Recipes](skills/hudesign-design-skill/references/css-recipes.md) · [Sổ cái 25 Video tham khảo (JSON)](skills/hudesign-design-skill/references/reference-video-ledger.json) · [Danh mục đủ 47 bài @hudesign](00_CHANNEL_CATALOG.md)
+
+### Kiến trúc Chuẩn Codex Skill (`skills/hudesign-design-skill/`)
+- `skills/hudesign-design-skill/SKILL.md`: Định nghĩa skill lõi kèm **Cổng Kiểm Tra Thiết Kế 5 Bước** và **5 Bất Biến Cấm Vi Phạm**.
+- `skills/hudesign-design-skill/agents/openai.yaml`: Cấu hình giao diện agent chuẩn Codex.
+- `AGENTS.md` + `schemas/hudesign_formulas.json`: Bộ luật quyết định (Decision Engine) và cơ sở dữ liệu JSON 18 công thức máy đọc.
+- `formulas/01..05.md`: 5 sổ tay chuyên đề chi tiết (Bố cục, 6 Hệ thống Lưới, Card UI & Thẩm mỹ, Phối màu/Gradient/Font/10 Phong cách, Checklist QA 10 điểm).
+
+### Cài skill vào Codex
+
+Trong Codex, dán trực tiếp câu lệnh sau để cài skill từ kho GitHub này:
+
+> Hãy cài skill từ repo `Tuyen2004-08/hudesign-design-skill` (thư mục `skills/hudesign-design-skill`).
+
+Hoặc clone trực tiếp qua GitHub CLI:
+```bash
+gh repo clone Tuyen2004-08/hudesign-design-skill
 ```
 
-## Cách nạp cho Codex
+## Dùng sau khi cài
 
-Prompt gọi nhanh trong Codex sau khi clone repo `Tuyen2004-08/hudesign-design-skill`:
+Gọi skill bằng câu lệnh mẫu trong Codex:
 ```text
-Đọc AGENTS.md và schemas/hudesign_formulas.json. Thiết kế [poster / landing page / menu / card UI / infographic] cho [dự án] theo đúng công thức Hủ Design, kiểm tra đủ 10 điểm QA trong formulas/05_software_shortcuts_and_qa.md trước khi xuất kết quả.
-``` chuẩn hóa cho Codex
+Dùng skill hudesign-design-skill. Đọc SKILL.md, references/visual-playbook.md và references/css-recipes.md.
+Thiết kế [Landing Page / Poster / Card UI / Menu / Infographic] cho [tên dự án], tuân thủ đủ 5 cổng kiểm tra thiết kế và 10 điểm QA trong formulas/05_software_shortcuts_and_qa.md.
+```
+
+## Phạm vi & Giới hạn
+- Dữ liệu công thức được trích xuất trực tiếp từ 25 video/bài trượt trọng tâm và chỉ mục đủ 47 bài đăng công khai trên kênh `@hudesign` (mọi mã video được lưu trong `reference-video-ledger.json` và `00_CHANNEL_CATALOG.md` để đối chiếu trực tiếp trên TikTok).
+- 2 video phụ đề chạy liên tục (*07 mẹo tinh tế P1* và *08 mẹo tinh tế P2*) đã trích xuất các quy tắc hiển thị chính (viền chữ dày, khử vùng xám gradient, chống chữ phẳng, tương phản chữ sáng trên nền sáng) và có thể mở rộng thêm bất cứ lúc nào.
