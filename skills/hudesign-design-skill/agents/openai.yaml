@@ -1,0 +1,4 @@
+interface:
+  display_name: "Hủ Design Visual Skill"
+  short_description: "Kho công thức thiết kế đồ họa, bố cục, lưới, Card UI/UX, Gradient và Typography từ kênh TikTok @hudesign"
+  default_prompt: "Sử dụng skill hudesign-design-skill để phân tích, thiết kế và nghiệm thu bố cục, lưới, màu sắc, gradient, card UI và typography theo chuẩn Before/After của Hủ Design (@hudesign)."
