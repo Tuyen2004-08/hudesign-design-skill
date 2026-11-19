@@ -16,7 +16,11 @@ Codex skill đóng gói toàn bộ hệ thống công thức thiết kế đồ 
 
 ![04. Luật Gradient 90 độ, Tương phản 4 lớp và 5 Nhóm Font](skills/hudesign-design-skill/assets/diagrams/04_gradient_color_and_fonts.svg)
 
-[Đọc Visual Playbook](skills/hudesign-design-skill/references/visual-playbook.md) · [Mở Visual Lab HTML](skills/hudesign-design-skill/references/visual-lab.html) · [Xem CSS Recipes](skills/hudesign-design-skill/references/css-recipes.md) · [Sổ cái 25 Video tham khảo (JSON)](skills/hudesign-design-skill/references/reference-video-ledger.json) · [Danh mục đủ 47 bài @hudesign](00_CHANNEL_CATALOG.md)
+![05. Căn chỉnh, Quy tắc 1/3 và Bố cục Đa ảnh](skills/hudesign-design-skill/assets/diagrams/05_alignment_and_rule_of_thirds.svg)
+
+![06. Hiệu ứng Nền tối, The Cube và Bảng màu Thực chiến](skills/hudesign-design-skill/assets/diagrams/06_dark_mode_glow_and_cube_effects.svg)
+
+[Đọc Visual Playbook](skills/hudesign-design-skill/references/visual-playbook.md) · [Mở Visual Lab HTML](skills/hudesign-design-skill/references/visual-lab.html) · [Xem CSS Recipes](skills/hudesign-design-skill/references/css-recipes.md) · [Sổ cái 25 Video tham khảo (JSON)](skills/hudesign-design-skill/references/reference-video-ledger.json) · [Danh mục đủ 47 bài @hudesign](00_CHANNEL_CATALOG.md) · [Công thức Căn chỉnh, 1/3 & Nền tối](formulas/06_alignment_thirds_and_creative_effects.md)
 
 ### Kiến trúc Chuẩn Codex Skill (`skills/hudesign-design-skill/`)
 - `skills/hudesign-design-skill/SKILL.md`: Định nghĩa skill lõi kèm **Cổng Kiểm Tra Thiết Kế 5 Bước** và **5 Bất Biến Cấm Vi Phạm**.
