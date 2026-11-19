@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 680" width="1200" height="680">
+  <rect width="1200" height="680" fill="#0F172A" rx="16"/>
+  <text x="36" y="48" fill="#F8FAFC" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="700">01. HỆ THỐNG BỐ CỤC &amp; 6 LOẠI LƯỚI KINH ĐIỂN — HỦ DESIGN (@hudesign)</text>
+  <text x="36" y="74" fill="#94A3B8" font-family="Segoe UI, Arial, sans-serif" font-size="14">7 loại bố cục (314K) • Trung tâm • Đường chéo • Chữ X • Hội tụ • 6 Hệ thống Lưới (63.9K)</text>
+  <line x1="36" y1="90" x2="1164" y2="90" stroke="#334155" stroke-width="1.5"/>
+  <g transform="translate(36,112)">
+    <rect width="268" height="250" rx="12" fill="#1E293B" stroke="#334155"/>
+    <text x="16" y="28" fill="#F59E0B" font-family="Arial" font-size="13" font-weight="700">#1 TRUNG TÂM + MASK</text>
+    <rect x="16" y="42" width="236" height="162" rx="8" fill="#F8FAFC"/>
+    <circle cx="134" cy="123" r="52" fill="#FEE2E2" stroke="#F43F5E" stroke-width="2"/>
+    <text x="134" y="108" fill="#CBD5E1" font-family="Arial" font-size="30" font-weight="800" text-anchor="middle">TITLE</text>
+    <rect x="108" y="84" width="52" height="82" rx="10" fill="#0F172A"/>
+    <text x="134" y="129" fill="#FFFFFF" font-family="Arial" font-size="11" font-weight="700" text-anchor="middle">CHỦ THỂ</text>
+    <rect x="26" y="52" width="38" height="10" rx="2" fill="#64748B"/><rect x="204" y="52" width="38" height="10" rx="2" fill="#64748B"/>
+    <rect x="26" y="184" width="38" height="10" rx="2" fill="#64748B"/><rect x="204" y="184" width="38" height="10" rx="2" fill="#64748B"/>
+    <text x="134" y="228" fill="#CBD5E1" font-family="Arial" font-size="11.5" text-anchor="middle">Chữ lớn đặt sau chủ thể + tag 4 góc</text>
+  </g>
+  <g transform="translate(322,112)">
+    <rect width="268" height="250" rx="12" fill="#1E293B" stroke="#334155"/>
+    <text x="16" y="28" fill="#F59E0B" font-family="Arial" font-size="13" font-weight="700">#2 ĐƯỜNG CHÉO (DIAGONAL)</text>
+    <rect x="16" y="42" width="236" height="162" rx="8" fill="#F8FAFC"/>
+    <line x1="28" y1="54" x2="240" y2="192" stroke="#F59E0B" stroke-width="2.5" stroke-dasharray="6,4"/>
+    <rect x="28" y="54" width="96" height="24" rx="4" fill="#0F172A"/>
+    <text x="76" y="70" fill="#FFFFFF" font-family="Arial" font-size="10" font-weight="700" text-anchor="middle">TIÊU ĐỀ LỚN</text>
+    <circle cx="134" cy="123" r="34" fill="#38BDF8" stroke="#0F172A" stroke-width="2"/>
+    <text x="134" y="127" fill="#0F172A" font-family="Arial" font-size="10" font-weight="700" text-anchor="middle">CHỦ THỂ</text>
+    <rect x="150" y="168" width="90" height="14" rx="3" fill="#475569"/>
+    <rect x="168" y="186" width="72" height="10" rx="2" fill="#94A3B8"/>
+    <text x="134" y="228" fill="#CBD5E1" font-family="Arial" font-size="11.5" text-anchor="middle">Tiêu đề trên-trái, chữ phụ dưới-phải</text>
+  </g>
+  <g transform="translate(608,112)">
+    <rect width="268" height="250" rx="12" fill="#1E293B" stroke="#334155"/>
+    <text x="16" y="28" fill="#F59E0B" font-family="Arial" font-size="13" font-weight="700">#3 GIAO ĐIỂM CHỮ X</text>
+    <rect x="16" y="42" width="236" height="162" rx="8" fill="#F8FAFC"/>
+    <line x1="28" y1="54" x2="240" y2="192" stroke="#F43F5E" stroke-width="2" stroke-dasharray="5,4"/>
+    <line x1="240" y1="54" x2="28" y2="192" stroke="#F43F5E" stroke-width="2" stroke-dasharray="5,4"/>
+    <circle cx="134" cy="123" r="38" fill="#0F172A" stroke="#F59E0B" stroke-width="3"/>
+    <text x="134" y="127" fill="#FFFFFF" font-family="Arial" font-size="10" font-weight="700" text-anchor="middle">TRỌNG TÂM</text>
+    <rect x="28" y="54" width="44" height="14" rx="3" fill="#475569"/><rect x="196" y="54" width="44" height="14" rx="3" fill="#475569"/>
+    <rect x="28" y="178" width="44" height="14" rx="3" fill="#475569"/><rect x="196" y="178" width="44" height="14" rx="3" fill="#475569"/>
+    <text x="134" y="228" fill="#CBD5E1" font-family="Arial" font-size="11.5" text-anchor="middle">2 trục chéo hội tụ tâm, chữ nhỏ 4 góc</text>
+  </g>
+  <g transform="translate(894,112)">
+    <rect width="270" height="250" rx="12" fill="#1E293B" stroke="#334155"/>
+    <text x="16" y="28" fill="#F59E0B" font-family="Arial" font-size="13" font-weight="700">#4 HỘI TỤ (CONVERGING)</text>
+    <rect x="16" y="42" width="238" height="162" rx="8" fill="#F8FAFC"/>
+    <g stroke="#F59E0B" stroke-width="2.5">
+      <line x1="135" y1="50" x2="135" y2="85"/><line x1="135" y1="161" x2="135" y2="196"/>
+      <line x1="32" y1="123" x2="90" y2="123"/><line x1="180" y1="123" x2="238" y2="123"/>
+      <line x1="56" y1="62" x2="104" y2="98"/><line x1="214" y1="62" x2="166" y2="98"/>
+      <line x1="56" y1="184" x2="104" y2="148"/><line x1="214" y1="184" x2="166" y2="148"/>
+    </g>
+    <circle cx="135" cy="123" r="32" fill="#0F172A" stroke="#10B981" stroke-width="3"/>
+    <text x="135" y="127" fill="#FFFFFF" font-family="Arial" font-size="10" font-weight="700" text-anchor="middle">CHỦ THỂ</text>
+    <text x="135" y="228" fill="#CBD5E1" font-family="Arial" font-size="11.5" text-anchor="middle">Tia/vật thể dài dẫn thẳng vào tâm</text>
+  </g>
+  <g transform="translate(36,386)">
+    <rect width="1128" height="262" rx="12" fill="#1E293B" stroke="#334155"/>
+    <text x="20" y="30" fill="#38BDF8" font-family="Arial" font-size="14" font-weight="700">6 HỆ THỐNG LƯỚI CHUẨN HỦ DESIGN (GRID SYSTEMS)</text>
+    <g transform="translate(20,46)"><rect width="170" height="196" rx="8" fill="#0F172A" stroke="#334155"/><text x="85" y="22" fill="#38BDF8" font-family="Arial" font-size="11" font-weight="700" text-anchor="middle">01. RADIAL</text><circle cx="85" cy="100" r="52" fill="none" stroke="#38BDF8" stroke-dasharray="4,3"/><circle cx="85" cy="100" r="32" fill="none" stroke="#38BDF8" stroke-dasharray="4,3"/><circle cx="85" cy="100" r="12" fill="#F59E0B"/><text x="85" y="180" fill="#94A3B8" font-family="Arial" font-size="10.5" text-anchor="middle">Lưới hướng tâm</text></g>
+    <g transform="translate(204,46)"><rect width="170" height="196" rx="8" fill="#0F172A" stroke="#334155"/><text x="85" y="22" fill="#38BDF8" font-family="Arial" font-size="11" font-weight="700" text-anchor="middle">02. MODULAR</text><rect x="22" y="42" width="38" height="34" rx="3" fill="#38BDF8" opacity="0.8"/><rect x="66" y="42" width="38" height="34" rx="3" fill="#38BDF8" opacity="0.8"/><rect x="110" y="42" width="38" height="34" rx="3" fill="#1E293B" stroke="#38BDF8"/><rect x="22" y="82" width="38" height="34" rx="3" fill="#1E293B" stroke="#38BDF8"/><rect x="66" y="82" width="38" height="34" rx="3" fill="#F59E0B"/><rect x="110" y="82" width="38" height="34" rx="3" fill="#1E293B" stroke="#38BDF8"/><rect x="22" y="122" width="38" height="34" rx="3" fill="#1E293B" stroke="#38BDF8"/><rect x="66" y="122" width="38" height="34" rx="3" fill="#1E293B" stroke="#38BDF8"/><rect x="110" y="122" width="38" height="34" rx="3" fill="#10B981"/><text x="85" y="180" fill="#94A3B8" font-family="Arial" font-size="10.5" text-anchor="middle">Lưới mô đun đều ô</text></g>
+    <g transform="translate(388,46)"><rect width="170" height="196" rx="8" fill="#0F172A" stroke="#334155"/><text x="85" y="22" fill="#38BDF8" font-family="Arial" font-size="11" font-weight="700" text-anchor="middle">03. AXIAL</text><line x1="78" y1="40" x2="78" y2="158" stroke="#F43F5E" stroke-width="3"/><rect x="26" y="48" width="46" height="18" rx="3" fill="#CBD5E1"/><rect x="84" y="48" width="60" height="18" rx="3" fill="#38BDF8"/><rect x="36" y="76" width="36" height="18" rx="3" fill="#CBD5E1"/><rect x="84" y="76" width="44" height="18" rx="3" fill="#38BDF8"/><rect x="20" y="104" width="52" height="18" rx="3" fill="#CBD5E1"/><rect x="84" y="104" width="64" height="18" rx="3" fill="#F59E0B"/><rect x="32" y="132" width="40" height="18" rx="3" fill="#CBD5E1"/><rect x="84" y="132" width="50" height="18" rx="3" fill="#38BDF8"/><text x="85" y="180" fill="#94A3B8" font-family="Arial" font-size="10.5" text-anchor="middle">Lưới căn trục</text></g>
+    <g transform="translate(572,46)"><rect width="170" height="196" rx="8" fill="#0F172A" stroke="#334155"/><text x="85" y="22" fill="#38BDF8" font-family="Arial" font-size="11" font-weight="700" text-anchor="middle">04. COLUMN</text><rect x="22" y="42" width="26" height="114" rx="2" fill="#38BDF8" opacity="0.25" stroke="#38BDF8"/><rect x="55" y="42" width="26" height="114" rx="2" fill="#38BDF8" opacity="0.25" stroke="#38BDF8"/><rect x="88" y="42" width="26" height="114" rx="2" fill="#38BDF8" opacity="0.25" stroke="#38BDF8"/><rect x="121" y="42" width="26" height="114" rx="2" fill="#38BDF8" opacity="0.25" stroke="#38BDF8"/><rect x="22" y="54" width="125" height="22" rx="3" fill="#F59E0B"/><text x="85" y="180" fill="#94A3B8" font-family="Arial" font-size="10.5" text-anchor="middle">Lưới cột (Web/Báo)</text></g>
+    <g transform="translate(756,46)"><rect width="170" height="196" rx="8" fill="#0F172A" stroke="#334155"/><text x="85" y="22" fill="#38BDF8" font-family="Arial" font-size="11" font-weight="700" text-anchor="middle">05. HIERARCHICAL</text><rect x="20" y="42" width="84" height="62" rx="4" fill="#F59E0B"/><rect x="110" y="42" width="40" height="62" rx="4" fill="#38BDF8"/><rect x="20" y="110" width="46" height="46" rx="4" fill="#10B981"/><rect x="72" y="110" width="78" height="46" rx="4" fill="#475569"/><text x="85" y="180" fill="#94A3B8" font-family="Arial" font-size="10.5" text-anchor="middle">Lưới phân cấp (Bento)</text></g>
+    <g transform="translate(940,46)"><rect width="168" height="196" rx="8" fill="#0F172A" stroke="#334155"/><text x="84" y="22" fill="#38BDF8" font-family="Arial" font-size="11" font-weight="700" text-anchor="middle">06. BASELINE</text><g stroke="#38BDF8" stroke-width="1" opacity="0.5"><line x1="20" y1="54" x2="148" y2="54"/><line x1="20" y1="74" x2="148" y2="74"/><line x1="20" y1="94" x2="148" y2="94"/><line x1="20" y1="114" x2="148" y2="114"/><line x1="20" y1="134" x2="148" y2="134"/><line x1="20" y1="154" x2="148" y2="154"/></g><text x="24" y="72" fill="#F8FAFC" font-family="Arial" font-size="14" font-weight="700">Tiêu đề chuẩn</text><text x="24" y="112" fill="#CBD5E1" font-family="Arial" font-size="10">Dòng 1 bám baseline</text><text x="24" y="132" fill="#CBD5E1" font-family="Arial" font-size="10">Dòng 2 đều khoảng cách</text><text x="84" y="180" fill="#94A3B8" font-family="Arial" font-size="10.5" text-anchor="middle">Lưới đường cơ bản</text></g>
+  </g>
+</svg>
