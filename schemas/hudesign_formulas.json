@@ -1,0 +1,29 @@
+{
+  "meta": {
+    "source_channel": "Hủ Design (@hudesign)",
+    "followers": "43.5K",
+    "likes": "241K",
+    "total_posts_indexed": 47,
+    "schema_version": "1.0.0"
+  },
+  "formulas": [
+    {"id": "LAY-01", "category": "layout", "name": "7 loại bố cục thường thấy", "items": ["Trung tâm", "1/3", "Đường chéo", "Đường cong", "Khung", "Đối xứng", "Lặp lại"], "video_id": "7646024611628420359"},
+    {"id": "LAY-02", "category": "layout", "name": "Bố cục Trung tâm nâng cao", "after": "Đặt chữ lớn phía sau chủ thể hoặc thêm mask tròn/bo góc nổi sau chủ thể; đẩy tag phụ vào 4 góc", "video_id": "7582220655031274770"},
+    {"id": "LAY-03", "category": "layout", "name": "Bố cục Đường chéo", "after": "Tiêu đề lớn góc trên-trái, chủ thể ở giữa, khối chữ phụ góc dưới-phải", "video_id": "7521727954192223495"},
+    {"id": "LAY-04", "category": "layout", "name": "Bố cục Giao điểm chữ X", "after": "Phóng to chủ thể trung tâm, đặt cặp chữ nhỏ ở 2 góc đối diện hoặc 4 góc trên 2 trục chéo", "video_id": "7524317963789372690"},
+    {"id": "LAY-05", "category": "layout", "name": "Bố cục Hội tụ", "after": "Dùng shape tia, vật thể dài hoặc chữ xoay hướng thẳng vào chủ thể tâm", "video_id": "7526137835141729543"},
+    {"id": "LAY-06", "category": "layout", "name": "Tỷ lệ vàng 1.618", "after": "Chủ thể nằm ở cung xoắn ốc lớn, tiêu đề chính ô trên-phải, mô tả ô dưới-phải", "video_id": "7529573401598446866"},
+    {"id": "LAY-07", "category": "layout", "name": "Nguyên tắc Gần kề (Proximity)", "after": "Gom thông tin cùng ngữ nghĩa sát nhau và chừa khoảng trống rõ giữa các cụm", "video_id": "7689793745599892754"},
+    {"id": "LAY-08", "category": "layout", "name": "Infographic 7 bước", "after": "Chia 2 cột + Phóng tiêu đề + Ảnh neo tâm + Đổi % thành biểu đồ + Node graph + Bar/Parabol chart + Quy trình mũi tên cuối trang", "video_id": "7531679531468442887"},
+    {"id": "LAY-09", "category": "layout", "name": "Menu 3 tầng tối giản Canva", "after": "Chia 3 tầng ngang, phủ dải màu nổi tầng giữa, xóa nền ảnh, kẻ line 90° thẳng cột giá", "video_id": "7526475657501609224"},
+    {"id": "GRD-01", "category": "grid", "name": "6 hệ thống lưới thường dùng", "items": ["RADIAL GRID", "MODULAR GRID", "AXIAL GRID", "COLUMN GRID", "HIERARCHICAL GRID", "BASELINE GRID"], "video_id": "7665740962018118919"},
+    {"id": "POL-01", "category": "polish", "name": "9 mẹo sang xịn hơn", "rules": ["Watermark Numbering", "Negative Space Logo", "Frosted/Rain Blur", "Broken Stroke Text", "Italic + Lightning Icon", "3D/Gradient UI Icons", "Accent Menu Icons", "Card Overflow + Tilt", "Blurred Color Glow"], "video_id": "7634899872566512904"},
+    {"id": "UI-01", "category": "ui_card", "name": "5 mẹo Card Layout UI/UX", "rules": ["Rounded + Gradient Dome", "Custom Shape 1-Corner", "Skewed Service Cards", "Physical Ticket Stack", "Card Overflow"], "video_id": "7619709741140413704"},
+    {"id": "POL-02", "category": "thinking", "name": "Không gian âm", "rules": ["Hình + Hình (Mèo-Chuột, Cây-Khỉ/Sư tử, Gấu-Nốt nhạc)", "Chữ + Chữ (DO IT.)"], "video_id": "7522856606074227975"},
+    {"id": "POL-03", "category": "thinking", "name": "Cảm giác chuyển động", "rules": ["Lặp chữ nghiêng mờ dần", "Xếp chữ dọc dứt khoát", "Speed lines ngang chuyển sắc"], "video_id": "7524715684501146887"},
+    {"id": "COL-01", "category": "color_gradient", "name": "Luật Gradient chuẩn", "after": "Chọn 2 màu góc <= 90°; cặp 180° phải chèn màu trung gian khử vùng xám; sản phẩm tối giản dùng nền tối hoặc gradient ánh sáng nhẹ", "video_id": "7671229776681585927"},
+    {"id": "COL-02", "category": "color_gradient", "name": "5 mẹo phối màu & Tương phản 4 lớp", "rules": ["Đơn sắc", "Liền kề", "Bổ sung", "Tách 4 lớp (Nền -> Card -> Khối phụ -> Điểm nhấn)", "Gradient <= 90°"], "video_id": "7539160968979401992"},
+    {"id": "TYP-01", "category": "typography", "name": "5 nhóm Font", "items": ["Sans Serif", "Serif", "Script", "Display", "Slab Serif"], "photo_id": "7528406911268424968"},
+    {"id": "STY-01", "category": "styles", "name": "10 phong cách thịnh hành", "items": ["Bold Minimalism", "Metallics", "Pixels", "Shape", "Textured Grains", "Maximalist Illustration", "Retro Serif Typography", "Gothic-Inspired Badges and Crests", "Handcrafted Elements", "AI-Powered Design"], "photo_id": "7526950267040959762"}
+  ]
+}
